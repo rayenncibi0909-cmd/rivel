@@ -1,2 +1,2 @@
 import os
-TOKEN = os.getenv("MTUwMDU5NDE2NTU4MTM0ODk4Ng.GF40xk.nqS5SpQHPNlQSLfRl71qSKtvwdiMjDH89sp3oU")
+
